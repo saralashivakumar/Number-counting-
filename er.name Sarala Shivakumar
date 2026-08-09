@@ -1,0 +1,199 @@
+[33mcommit 1258cec04781ee1bbe0859fabf320131e7d2087a[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Sun May 21 13:09:58 2023 +0200
+
+    Update refs
+
+[33mcommit d8c2fe9b98308f30bb485f847299046acceb956a[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Sat May 20 10:45:37 2023 +0200
+
+    Make the counting data more refined
+
+[33mcommit cceec22665132c711a4587546eb5bde75019aeb2[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Fri May 19 13:44:49 2023 +0200
+
+    Refactor features config
+
+[33mcommit 7ed9bf63fd9131b73937598566652f621d0fb3ba[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Fri May 19 12:11:34 2023 +0200
+
+    Standardize logger
+
+[33mcommit a33b1618059eff58de17b21e33f80f29b3d7e124[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Thu May 18 14:14:04 2023 +0200
+
+    Refactor log_data function
+
+[33mcommit dd4c5ad57e015bb174be616426707c861824ac3f[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Thu May 18 10:43:10 2023 +0200
+
+    Update python dependencies
+
+[33mcommit cd650ca3464e3d6d119b3dc7a8df615a7650d4da[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed May 17 13:13:38 2023 +0200
+
+    Delete mylib directory
+
+[33mcommit bf3cdedb2b254328ca4de1d810b6c1c06bd72c88[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed May 17 13:12:01 2023 +0200
+
+    Update project structure
+
+[33mcommit df42275feec1e0b0f004a79ef84f1cd60d98e645[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Tue May 16 10:46:16 2023 +0200
+
+    Add check for header rows in log
+
+[33mcommit d693ea383317e385cd671302a84890bbc1498659[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Fri May 12 15:34:00 2023 +0200
+
+    Create .gitignore
+
+[33mcommit 8ea383a296eabaa6d68c82398cb795879d5f2577[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Thu May 11 13:18:14 2023 +0200
+
+    Fix process hangs while sending alerts
+
+[33mcommit 3c22c76ea1e388d3b5128520a18f39fc504d6ed9[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Fri Jul 22 13:30:03 2022 +0200
+
+    Update README.md
+
+[33mcommit e779b52eae7b7d9462125314137ba94ee451847c[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Mon Feb 28 18:30:49 2022 +0100
+
+    small time fix
+
+[33mcommit 891760b42a68549d49962aaa62a906e4eea7d79c[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Aug 4 14:37:23 2021 +0200
+
+    issue 25
+
+[33mcommit 05d8b0fe29b29340b3afb7b41be59f8723c41d59[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Mon May 10 17:04:57 2021 +0200
+
+    Update README.md
+
+[33mcommit 7eebfa7a1104bb56063d20451110566958c0d829[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Mon May 10 16:33:09 2021 +0200
+
+    Update Run.py
+    
+    issue 19
+
+[33mcommit 3a2d7d9bbcf50632be15f97619e954629988eaef[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Tue May 4 14:21:44 2021 +0200
+
+    release func.
+
+[33mcommit e6a51130ea1ee7f198877b459e273c7eeb0abd44[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Tue May 4 14:20:17 2021 +0200
+
+    Update Run.py
+
+[33mcommit 09ffaec3767768f9285784596620e68bea9b85cf[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Mar 10 15:21:04 2021 +0100
+
+    Update requirements.txt
+
+[33mcommit 4b7c7ec1b82b07a271363f419f936fff26dbbb20[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Oct 21 13:10:12 2020 +0200
+
+    repo updates
+
+[33mcommit 71a2c46de3223f30ec43b809cf397f3039ea3a46[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Mon Oct 12 13:16:50 2020 +0200
+
+    Update requirements.txt
+
+[33mcommit a473dbff455961d2a8b7970ceb429a79fd2af2b3[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Sep 30 15:08:04 2020 +0200
+
+    refactored threading
+
+[33mcommit 2d6ee12a6b56eaa6774194ca3f68d0bf517d2fc8[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Sep 30 14:58:58 2020 +0200
+
+    refactored threading
+
+[33mcommit 70eaeedf3ac24cf0c27ee897a27b814ba6141c41[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Sun Sep 27 12:45:43 2020 +0200
+
+    added threading
+
+[33mcommit ad8092ce53518b56582d58fb23389260a97dc00d[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Sun Sep 27 12:23:08 2020 +0200
+
+    added config.
+
+[33mcommit 77c52d0ec0c235312f83058ebfa44ecdcc6883cc[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Sun Aug 23 13:03:07 2020 +0200
+
+    Update README.md
+
+[33mcommit 9427f021034405f9198904fff22c567b8fb6c40e[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Aug 19 10:29:06 2020 +0200
+
+    Update README.md
+
+[33mcommit 25dfd6589a3ae82fdfa534afcf313ab33934eb32[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Aug 19 10:26:56 2020 +0200
+
+    Update README.md
+
+[33mcommit 46602f92a12e45d95ebad6509d4fe1c1f2114ece[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Aug 19 10:21:02 2020 +0200
+
+    Update Run.py
+
+[33mcommit e9e85f8f3abbb2e143ed13c94310232b979c3330[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Wed Aug 19 10:16:45 2020 +0200
+
+    added README.md
+
+[33mcommit 593e81608535266663869fde6a8d054efc8ecf4d[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Tue Aug 18 21:50:02 2020 +0200
+
+    added readme
+
+[33mcommit dfd595daa57c05e7e51f9e2635630d8b06dbbb5a[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Tue Aug 18 21:18:38 2020 +0200
+
+    added main project files
+
+[33mcommit f1ed64505813ce78070959bf67463c7e001fbecb[m
+Author: Sai Subhakar T <36569367+[1;31msaimj7[m@users.noreply.github.com>
+Date:   Tue Aug 18 21:14:40 2020 +0200
+
+    Initial commit

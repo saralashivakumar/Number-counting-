@@ -1,0 +1,12 @@
+{
+    "ALERT": false,
+    "Email_Password": "",
+    "Email_Receive": "",
+    "Email_Send": "",
+    "Log": true,
+    "Scheduler": false,
+    "Thread": true,
+    "Threshold": 10,
+    "Timer": false,
+    "url": "rtsp://admin:Brihaspathi%24123@172.23.0.100:554/unicast/c04/s0"
+}
